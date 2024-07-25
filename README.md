@@ -1,4 +1,4 @@
-# Blackjack Reinforcement Learning
+# Reinforcement Learning Blackjack
 
 This project implements various reinforcement learning algorithms to solve the Blackjack-v1 environment from OpenAI Gym.
 
